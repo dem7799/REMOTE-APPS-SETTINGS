@@ -3,48 +3,48 @@
 	  "id": 0,
 	  
 	  "banner_type": 0,
-	  "banner_subtitle": "Manage stress & anxiety - SERVER",
+	  "banner_subtitle": "Manage stress & anxiety - GITHUB",
 	  "banner_title": "Take a deep breath & relax",
 	  "banner_text": "The Breath Ball enables you to transform stress and pressure.",
 	  "banner_button": "Try App Now",
 	  "banner_url": "/paid-upsell-content",
-	  "banner_img_screen": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/SCREEN/breath.jpg",
+	  "banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_screen.jpg",
 	  
-	  "full_subtitle": "Take a deep breath & relax - SERVER",
+	  "full_subtitle": "Take a deep breath & relax - GITHUB",
 	  "full_title": "How to fall asleep fast with simple breath method?",
 	  "full_button": "Try App Now",
 	  "full_url": "https://apps.apple.com/app/id1439570664",
-	  "full_img_bg": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/BG/1.jpg",
-	  "full_img_icon": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/ICON/breath.png",
+	  "full_img_bg": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/bg_1.jpg",
+	  "full_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png",
 	  
 	  "menu_subtitle": "",
-	  "menu_title": "Take a deep breath & relax - SERVER",
+	  "menu_title": "Take a deep breath & relax - GITHUB",
 	  "menu_button": "",
 	  "menu_url": "https://apps.apple.com/app/id1439570664",
-	  "menu_img_icon": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/ICON/breath.png"
+	  "menu_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png"
 	},
 	{
 	  "id": 1,
 	  
 	  "banner_type": 1,
 	  "banner_subtitle": "",
-	  "banner_title": "Take a deep - SERVER",
+	  "banner_title": "Take a deep - GITHUB",
 	  "banner_text": "The Breath Ball enables you to transform stress and psychological pressure.",
 	  "banner_button": "Try App Now",
 	  "banner_url": "https://apps.apple.com/app/id1439570664",
-	  "banner_img_screen": "https://images.unsplash.com/photo-1620680334350-eb7ba9afd018?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+	  "banner_img_screen": "https://picsum.photos/500/300",
 	  
-	  "full_subtitle": "Take a deep breath & relax - SERVER",
+	  "full_subtitle": "Take a deep breath & relax - GITHUB",
 	  "full_title": "How to fall asleep fast with simple breath method?",
 	  "full_button": "Try App Now",
 	  "full_url": "https://apps.apple.com/app/id1439570664",
 	  "full_img_bg": "",
-	  "full_img_icon": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/ICON/breath.png",
+	  "full_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png",
 	  
-	  "menu_subtitle": "Breath & Relax - SERVER",
+	  "menu_subtitle": "Breath & Relax - GITHUB",
 	  "menu_title": "Breathe",
 	  "menu_button": "NEW",
 	  "menu_url": "https://apps.apple.com/app/id1439570664",
-	  "menu_img_icon": "https://d3dw7sivthju9t.cloudfront.net/REMOTE/ICON/breath.png"
+	  "menu_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png"
 	}
   ]
