@@ -1,27 +1,3 @@
 {
-    "remote_IAP_closeButton": 1,
-    "remote_IAP_trialText": "3 days free",
 
-    "remote_crossPromo_banner": 1,
-    "remote_crossPromo_menu": 1,
-
-    "remote_crossPromo_full": 0,
-    "remote_crossPromo_full_showEvery": 2,
-
-    "remote_introSlide_onlyWelcome": 1,
-    "remote_introSlide_welcome": 1,
-    "remote_introSlide_1": 1,
-    "remote_introSlide_2": 1,
-    "remote_introSlide_3": 1,
-    "remote_introSlide_4": 1,
-    "remote_introSlide_5": 1,
-    "remote_introSlide_6": 1,
-    "remote_introSlide_7": 1,
-    "remote_introSlide_height": 1,
-    "remote_introSlide_weight": 1,
-    "remote_introSlide_age": 1,
-    "remote_introSlide_name": 1,
-    "remote_introSlide_progress": 1,
-    "remote_introSlide_done": 1,
-    "remote_introSlide_index": 12
 }
