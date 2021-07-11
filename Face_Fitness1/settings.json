@@ -6,8 +6,8 @@
 
 "remote_IAP_planText1": "Week",
 "remote_IAP_planText2": "12 weeks",
-"remote_IAP_planTextStyle": "font-size:14px;",
-"remote_IAP_priceTextStyle": "font-size:20px;",
+"remote_IAP_planTextStyle": "font-size:20px;",
+"remote_IAP_priceTextStyle": "font-size:14px;",
 
 "remote_IAP_trial": "3",
 "remote_IAP_trialText": "Days free",
