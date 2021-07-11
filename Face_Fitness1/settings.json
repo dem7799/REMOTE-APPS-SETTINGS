@@ -1,23 +1,25 @@
 {
 "remote_IAP_closeButton": 1,
-"remote_IAP_trial": "3",
-"remote_IAP_trialText": "Days free",
-"remote_IAP_discountText": "Save",
-"remote_IAP_discount": "75%",
+
 "remote_IAP_titleText": "Choose plan",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after.jpg",
-"remote_IAP_nextButtonText": "Continue",
-
-"remote_IAP_perPeriod": "per week",
 
 "remote_IAP_planText1": "Week",
 "remote_IAP_planText2": "12 weeks",
 "remote_IAP_planTextStyle": "font-size:14px;",
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
+"remote_IAP_trial": "3",
+"remote_IAP_trialText": "Days free",
+"remote_IAP_discountText": "Save",
+"remote_IAP_discount": "75%",
+
 "remote_IAP_subPrice": 0,
 "remote_IAP_subPriceText1": "/ week",
 "remote_IAP_subPriceText2": "/ 12 weeks",
+"remote_IAP_perPeriod": "per week",
+
+"remote_IAP_nextButtonText": "Continue",
 
 "remote_crossPromo_banner": 0,
 "remote_crossPromo_menu": 0,
