@@ -1,7 +1,7 @@
 {
-"remote_IAP_page": 2,
+"remote_IAP_page": 1,
 
-"remote_IAP_closeButton": 0,
+"remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Get unlimited access to your personal fitness plan",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after_",
 "remote_IAP_nextButtonText": "Continue",
