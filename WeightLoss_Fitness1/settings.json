@@ -1,5 +1,5 @@
 {
-"remote_IAP_page_intro": 1,
+"remote_IAP_page_intro": 2,
 "remote_IAP_page_tab1": 0,
 
 "remote_IAP_closeButton": 1,
@@ -23,7 +23,7 @@
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "80%",
 
-"remote_IAP_subPrice": 1,
+"remote_IAP_subPrice": 0,
 "remote_IAP_subPriceText1": "/ monthly",
 "remote_IAP_subPriceText2": "/ yearly",
 "remote_IAP_perPeriod": "per week",
@@ -50,6 +50,6 @@
 "remote_introSlide_age": 1,
 "remote_introSlide_name": 0,
 "remote_introSlide_progress": 1,
-"remote_introSlide_done": 1,
+"remote_introSlide_done": 0,
 "remote_introSlide_index": 8
 }
