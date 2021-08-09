@@ -3,9 +3,9 @@
 "remote_IAP_page_tab1": 0,
 
 "remote_IAP_closeButton": 1,
-"remote_IAP_titleText": "Start track & control your mood",
+"remote_IAP_titleText": "Join Premium. Unlock all courses & start track your mood",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText": "Start free & subscribe",
+"remote_IAP_nextButtonText": "Continue",
 
 "remote_IAP_closeButton2": 1,
 "remote_IAP_titleText2": "Your 25 day plan is ready!",
@@ -13,8 +13,8 @@
 "remote_IAP_nextButtonText2": "Start free & subscribe",
 "remote_IAP_priceTextStyle2": "font-size:13px;",
 
-"remote_IAP_planText1": "Week",
-"remote_IAP_planText2": "12 weeks",
+"remote_IAP_planText1": "Month",
+"remote_IAP_planText2": "Year",
 "remote_IAP_planTextStyle": "font-size:14px;",
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
@@ -23,11 +23,11 @@
 "remote_IAP_trialText": "Day free",
 "remote_IAP_trialText2": "Days free",
 "remote_IAP_discountText": "Save",
-"remote_IAP_discount": "76%",
+"remote_IAP_discount": "67%",
 
 "remote_IAP_subPrice": 1,
-"remote_IAP_subPriceText1": "/ weekly",
-"remote_IAP_subPriceText2": "/ 3 months",
+"remote_IAP_subPriceText1": "/ monthly",
+"remote_IAP_subPriceText2": "/ yearly",
 "remote_IAP_perPeriod": "per week",
 
 "remote_crossPromo_banner": 0,
