@@ -26,8 +26,8 @@
 "remote_IAP_discount": "67%",
 
 "remote_IAP_subPrice": 0,
-"remote_IAP_subPriceText1": "/ weekly",
-"remote_IAP_subPriceText2": "/ 12 weeks",
+"remote_IAP_subPriceText1": "/ monthly",
+"remote_IAP_subPriceText2": "/ yearly",
 "remote_IAP_perPeriod": "per week",
 
 "remote_crossPromo_banner": 0,
