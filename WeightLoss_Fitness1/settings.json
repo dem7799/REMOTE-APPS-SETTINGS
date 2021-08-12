@@ -5,12 +5,12 @@
 "remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Get unlimited access to your personal fitness plan",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after_",
-"remote_IAP_nextButtonText": "Start 7 days free",
+"remote_IAP_nextButtonText": "Start 3 days free",
 
 "remote_IAP_closeButton2": 0,
 "remote_IAP_titleText2": "Your 4 week plan is ready!",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after_",
-"remote_IAP_nextButtonText2": "Start 7 days free",
+"remote_IAP_nextButtonText2": "Start 3 days free",
 "remote_IAP_priceTextStyle2": "font-size:13px;",
 
 "remote_IAP_planText1": "Month",
