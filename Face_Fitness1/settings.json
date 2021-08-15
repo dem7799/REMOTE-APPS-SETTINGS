@@ -25,7 +25,7 @@
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "75%",
 
-"remote_IAP_subPrice": 1,
+"remote_IAP_subPrice": 0,
 "remote_IAP_subPriceText1": "/ week",
 "remote_IAP_subPriceText2": "/ 12 weeks",
 "remote_IAP_perPeriod": "per week",
