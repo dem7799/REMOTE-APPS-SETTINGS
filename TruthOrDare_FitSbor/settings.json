@@ -18,10 +18,10 @@
 "remote_IAP_planTextStyle": "font-size:14px;",
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
-"remote_IAP_trial": "3",
-"remote_IAP_trial2": "",
-"remote_IAP_trialText": "Day free",
-"remote_IAP_trialText2": "Standart",
+"remote_IAP_trial": " ",
+"remote_IAP_trial2": "3",
+"remote_IAP_trialText": "Standart",
+"remote_IAP_trialText2": "Day free",
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "50%",
 
