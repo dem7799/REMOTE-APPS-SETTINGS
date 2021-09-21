@@ -1,5 +1,5 @@
 {
-"remote_IAP_page_intro": 2,
+"remote_IAP_page_intro": 1,
 "remote_IAP_page_tab1": 0,
 
 "remote_IAP_closeButton": 1,
@@ -10,8 +10,8 @@
 "remote_IAP_closeButton2": 1,
 "remote_IAP_titleText2": "Subscribe to Premium: Unlock all categories & remove ads",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText2": "Subscribe & Unlock",
-"remote_IAP_priceTextStyle2": "font-size:28px;color:#000;",
+"remote_IAP_nextButtonText2": "Unlock",
+"remote_IAP_priceTextStyle2": "font-size:16px;color:#444;",
 
 "remote_IAP_planText1": "Week",
 "remote_IAP_planText2": "12 weeks",
@@ -19,13 +19,13 @@
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
 "remote_IAP_trial": "3",
-"remote_IAP_trial2": "3",
+"remote_IAP_trial2": "",
 "remote_IAP_trialText": "Day free",
-"remote_IAP_trialText2": "Day free",
+"remote_IAP_trialText2": "Standart",
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "50%",
 
-"remote_IAP_subPrice": 1,
+"remote_IAP_subPrice": 0,
 "remote_IAP_subPriceText1": "/ weekly",
 "remote_IAP_subPriceText2": "/ 3 months",
 "remote_IAP_perPeriod": "per week",
