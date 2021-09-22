@@ -10,7 +10,7 @@
 "remote_IAP_closeButton2": 0,
 "remote_IAP_titleText2": "Subscribe to Premium: Unlock all categories & remove ads",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText2": "Unlock",
+"remote_IAP_nextButtonText2": "Try Free Trial",
 "remote_IAP_priceTextStyle2": "font-size:14px;color:#8c9099;",
 
 "remote_IAP_planText1": "Week",
@@ -18,9 +18,9 @@
 "remote_IAP_planTextStyle": "font-size:14px;",
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
-"remote_IAP_trial": " ",
+"remote_IAP_trial": "3",
 "remote_IAP_trial2": "3",
-"remote_IAP_trialText": "Standart",
+"remote_IAP_trialText": "Day free",
 "remote_IAP_trialText2": "Day free",
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "50%",
