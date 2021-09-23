@@ -1,16 +1,16 @@
 {
-"remote_IAP_page_intro": 2,
+"remote_IAP_page_intro": 1,
 "remote_IAP_page_tab1": 0,
 
 "remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Get unlimited access to your personal face lifting plan",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after.jpg",
-"remote_IAP_nextButtonText": "Start my 7-day free trial",
+"remote_IAP_nextButtonText": "Continue",
 
 "remote_IAP_closeButton2": 1,
 "remote_IAP_titleText2": "Your 4 week plan is ready!",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after.jpg",
-"remote_IAP_nextButtonText2": "Start my 7-day free trial",
+"remote_IAP_nextButtonText2": "Start free & subscribe",
 "remote_IAP_priceTextStyle2": "font-size:13px;",
 
 "remote_IAP_planText1": "Week",
@@ -25,7 +25,7 @@
 "remote_IAP_discountText": "Save",
 "remote_IAP_discount": "75%",
 
-"remote_IAP_subPrice": 0,
+"remote_IAP_subPrice": 1,
 "remote_IAP_subPriceText1": "/ week",
 "remote_IAP_subPriceText2": "/ 12 weeks",
 "remote_IAP_perPeriod": "per week",
@@ -53,6 +53,6 @@
 "remote_introSlide_age": 0,
 "remote_introSlide_name": 0,
 "remote_introSlide_progress": 1,
-"remote_introSlide_done": 0,
+"remote_introSlide_done": 1,
 "remote_introSlide_index": 8
 }
