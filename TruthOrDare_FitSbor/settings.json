@@ -5,18 +5,18 @@
 "remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Subscribe to Premium: Unlock all categories & remove ads",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText": "Subscribe & Unlock",
+"remote_IAP_nextButtonText": "Continue",
 
 "remote_IAP_closeButton2": 1,
 "remote_IAP_titleText2": "Subscribe to Premium: Unlock all categories & remove ads",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText2": "Subscribe & Unlock",
-"remote_IAP_priceTextStyle2": "font-size:28px;color:#000;",
+"remote_IAP_nextButtonText2": "Continue",
+"remote_IAP_priceTextStyle2": "font-size:20px;color:#000;",
 
 "remote_IAP_planText1": "Week",
 "remote_IAP_planText2": "12 weeks",
 "remote_IAP_planTextStyle": "font-size:14px;",
-"remote_IAP_priceTextStyle": "font-size:28px;color:#000;",
+"remote_IAP_priceTextStyle": "font-size:20px;color:#000;",
 
 "remote_IAP_trial": "",
 "remote_IAP_trial2": "3",
