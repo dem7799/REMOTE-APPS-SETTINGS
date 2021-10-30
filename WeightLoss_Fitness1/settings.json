@@ -18,7 +18,7 @@
 "remote_IAP_planTextStyle": "font-size:14px;",
 "remote_IAP_priceTextStyle": "font-size:20px;",
 
-"remote_IAP_trial": "",
+"remote_IAP_trial": " ",
 "remote_IAP_trial2": "7",
 "remote_IAP_trialText": "Standart",
 "remote_IAP_trialText2": "Days free",
