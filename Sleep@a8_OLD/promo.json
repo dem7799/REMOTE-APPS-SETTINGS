@@ -1,1 +1,102 @@
-{}
+[
+{
+"id": 0,
+
+"banner_type": 1,
+"banner_premium": 1,
+"banner_premium_hide": 0,
+"banner_subtitle": "",
+"banner_title": "75 Best Strategies to Relieve Insomnia",
+"banner_button": "",
+"banner_url": "https://75-sleep-strategies.minisite.ai",
+"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/Sleep@a7/MEDIA/sleep3.jpg",
+
+"full_subtitle": "Take a deep breath & relax - nPoint",
+"full_title": "How to fall asleep fast with simple breath method?",
+"full_button": "Try App Now",
+"full_url": "https://apps.apple.com/app/id1439570664",
+"full_img_bg": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/bg_1.jpg",
+"full_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png",
+
+"menu_premium": 1,
+"menu_premium_hide": 0,
+"menu_subtitle": "",
+"menu_title": "75 Best Strategies to Relieve Insomnia",
+"menu_url": "https://75-sleep-strategies.minisite.ai"
+},
+{
+"id": 1,
+
+"banner_type": 1,
+"banner_premium": 1,
+"banner_premium_hide": 0,
+"banner_subtitle": "Download PDF & Print",
+"banner_title": "Sleep Diary & Night Checklist",
+"banner_button": "",
+"banner_url": "https://teletype.in/@sleepmeditation/_aunRSyuvN8",
+"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/Sleep@a7/MEDIA/sleep2.jpg",
+
+"full_subtitle": "Take a deep breath & relax - nPoint",
+"full_title": "How to fall asleep fast with simple breath method?",
+"full_button": "Try App Now",
+"full_url": "https://apps.apple.com/app/id1439570664",
+"full_img_bg": "",
+"full_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/breath_icon.png",
+
+"menu_premium": 1,
+"menu_premium_hide": 0,
+"menu_subtitle": "Download PDF & Print",
+"menu_title": "Sleep Diary & Night Checklist",
+"menu_url": "https://teletype.in/@sleepmeditation/_aunRSyuvN8"
+},
+{
+"id": 2,
+
+"banner_type": 1,
+"banner_premium": 1,
+"banner_premium_hide": 0,
+"banner_subtitle": "2 min Practice",
+"banner_title": "Fall Asleep Faster with Breathe Method",
+"banner_button": "",
+"banner_url": "https://teletype.in/@sleepmeditation/gKbbTbOP9Ui",
+"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/Sleep@a7/MEDIA/sleep5.jpg",
+
+"full_subtitle": "",
+"full_title": "",
+"full_button": "",
+"full_url": "",
+"full_img_bg": "",
+"full_img_icon": "",
+
+"menu_premium": 1,
+"menu_premium_hide": 0,
+"menu_subtitle": "",
+"menu_title": "Fall Asleep Faster with Breathe Method",
+"menu_url": "https://teletype.in/@sleepmeditation/gKbbTbOP9Ui"
+},
+{
+"id": 3,
+
+"banner_type": 1,
+"banner_premium": 0,
+"banner_premium_hide": 0,
+"banner_subtitle": "Get 45+ relax video soundscapes",
+"banner_title": "Turn On Fireplace Before Hour to Sleep",
+"banner_button": "",
+"banner_url": "https://itunes.apple.com/app/id1558330910",
+"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/Sleep@a7/MEDIA/fire1.jpg",
+
+"full_subtitle": "",
+"full_title": "",
+"full_button": "",
+"full_url": "",
+"full_img_bg": "",
+"full_img_icon": "",
+
+"menu_premium": 0,
+"menu_premium_hide": 0,
+"menu_subtitle": "Install App",
+"menu_title": "Relax Video Soundscapes",
+"menu_url": "https://itunes.apple.com/app/id1558330910"
+}
+]
