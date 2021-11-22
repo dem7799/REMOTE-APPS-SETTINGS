@@ -98,30 +98,5 @@
 "menu_subtitle": "Install App",
 "menu_title": "Relax Video Soundscapes",
 "menu_url": "https://itunes.apple.com/app/id1558330910"
-},
-{
-"id": 4,
-
-"banner_type": 1,
-"banner_premium": 1,
-"banner_premium_hide": 0,
-"banner_subtitle": "Harvard Medical Sciense",
-"banner_title": "Six Week Drug-Free Insomnia Program",
-"banner_button": "",
-"banner_url": "https://sixweek-insomniaprogram.minisite.ai",
-"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/Sleep@a7/MEDIA/sleep6.jpg",
-
-"full_subtitle": "",
-"full_title": "",
-"full_button": "",
-"full_url": "",
-"full_img_bg": "",
-"full_img_icon": "",
-
-"menu_premium": 1,
-"menu_premium_hide": 0,
-"menu_subtitle": "Harvard Medical Sciense",
-"menu_title": "Six Week Drug-Free Insomnia Program",
-"menu_url": "https://sixweek-insomniaprogram.minisite.ai"
 }
 ]
