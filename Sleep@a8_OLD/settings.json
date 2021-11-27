@@ -21,7 +21,7 @@
 "remote_IAP_page_nextButtonPlan2": "sub1",
 "remote_IAP_page_nextButtonText2": "Continue",
 
-"remote_IAP_page_discount_showEvery": 4,
+"remote_IAP_page_discount_showEvery": 6,
 "remote_IAP_page_discount_toolbarTitle": "",
 "remote_IAP_page_discount_iconImgName": "hourglass-outline",
 "remote_IAP_page_discount_headline": "Get all premium content by best discount price",
@@ -41,7 +41,7 @@
 "remote_IAP_page_discount_nextButtonText": "Start sleep better",
 
 
-"remote_IAP_page_close": 1,
+"remote_IAP_page_close": 0,
 "remote_IAP_page_close_toolbarTitle": "",
 "remote_IAP_page_close_footerbarTitle": "734 400 people use app to sleep better each night",
 "remote_IAP_page_close_iconImgName": "arrow-forward-outline",
