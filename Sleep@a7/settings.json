@@ -9,7 +9,7 @@
 "remote_IAP_page_li3": "Relive insomnia & stress",
 "remote_IAP_page_li4": "Reduce addiction to medication",
 "remote_IAP_page_li5": "Get all sleep meditations, stories, sounds",
-"remote_IAP_page_li6": "Time and cost-efficient. Clinic sleep therapy costs $150 per session",
+"remote_IAP_page_li6": "Time and cost-efficient",
 "remote_IAP_page_medal1": 1,
 "remote_IAP_page_medal2": "734 400 people use app to sleep better each night",
 "remote_IAP_page_month": "per month",
@@ -21,7 +21,7 @@
 "remote_IAP_page_nextButtonPlan2": "sub2",
 "remote_IAP_page_nextButtonText2": "Subscribe",
 
-"remote_IAP_page_discount_showEvery": 3,
+"remote_IAP_page_discount_showEvery": 5,
 "remote_IAP_page_discount_toolbarTitle": "",
 "remote_IAP_page_discount_iconImgName": "hourglass-outline",
 "remote_IAP_page_discount_headline": "Get all premium content by best discount price",
@@ -41,7 +41,7 @@
 "remote_IAP_page_discount_nextButtonText": "Subscribe",
 
 
-"remote_IAP_page_close": 1,
+"remote_IAP_page_close": 0,
 "remote_IAP_page_close_toolbarTitle": "",
 "remote_IAP_page_close_footerbarTitle": "Take your $340 valued bonuses for FREE",
 "remote_IAP_page_close_iconImgName": "gift",
