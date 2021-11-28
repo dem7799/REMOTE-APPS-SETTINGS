@@ -4,14 +4,14 @@
 
 
 "remote_IAP_page_headline": "Get restful nights",
-"remote_IAP_page_li1": "Try 7 days free trial",
+"remote_IAP_page_li1": "Try 7 days free",
 "remote_IAP_page_li2": "Fall asleep fast",
 "remote_IAP_page_li3": "Relive insomnia & stress",
 "remote_IAP_page_li4": "Reduce addiction to medication",
 "remote_IAP_page_li5": "Get all sleep meditations, stories, sounds",
-"remote_IAP_page_li6": "Time and cost-efficient",
+"remote_IAP_page_li6": "",
 "remote_IAP_page_medal1": 1,
-"remote_IAP_page_medal2": "734 400 people use app to sleep better each night",
+"remote_IAP_page_medal2": "",
 "remote_IAP_page_month": "per month",
 "remote_IAP_page_year": "per year",
 "remote_IAP_page_yearBadge": "45% OFF",
@@ -19,7 +19,7 @@
 "remote_IAP_page_nextButtonText": "Subscribe",
 "remote_IAP_page_reviews": 1,
 "remote_IAP_page_nextButtonPlan2": "sub2",
-"remote_IAP_page_nextButtonText2": "Subscribe",
+"remote_IAP_page_nextButtonText2": "Start Better Sleep",
 
 "remote_IAP_page_discount_showEvery": 5,
 "remote_IAP_page_discount_toolbarTitle": "",
@@ -38,7 +38,7 @@
 "remote_IAP_page_discount_year": "/yearly",
 "remote_IAP_page_discount_yearBadge": "67% OFF TODAY",
 "remote_IAP_page_discount_nextButtonPlan": "sub2_discount",
-"remote_IAP_page_discount_nextButtonText": "Subscribe",
+"remote_IAP_page_discount_nextButtonText": "Continue",
 
 
 "remote_IAP_page_close": 0,
