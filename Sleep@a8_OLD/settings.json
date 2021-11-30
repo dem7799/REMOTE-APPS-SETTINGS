@@ -62,6 +62,6 @@
 
 "remote_crossPromo_banner": 0,
 "remote_crossPromo_menu": 1,
-"remote_crossPromo_full": 0,
+"remote_crossPromo_full": 1,
 "remote_crossPromo_full_showEvery": 3
 }
