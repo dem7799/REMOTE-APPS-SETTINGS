@@ -10,7 +10,7 @@
 "remote_IAP_page_li4": "Reduce addiction to medication",
 "remote_IAP_page_li5": "Get all sleep meditations, stories, sounds",
 "remote_IAP_page_li6": "",
-"remote_IAP_page_medal1": 1,
+"remote_IAP_page_medal1": 0,
 "remote_IAP_page_medal2": "",
 "remote_IAP_page_month": "per month",
 "remote_IAP_page_year": "per year",
@@ -21,7 +21,7 @@
 "remote_IAP_page_nextButtonPlan2": "sub2",
 "remote_IAP_page_nextButtonText2": "Start free & subscribe",
 
-"remote_IAP_page_discount_showEvery": 8,
+"remote_IAP_page_discount_showEvery": 4,
 "remote_IAP_page_discount_toolbarTitle": "",
 "remote_IAP_page_discount_iconImgName": "hourglass-outline",
 "remote_IAP_page_discount_headline": "Get all premium content by best discount price",
