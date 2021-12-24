@@ -23,5 +23,30 @@
 "menu_subtitle": "Install App",
 "menu_title": "Razor Prank App",
 "menu_url": "https://itunes.apple.com/app/id1519988037"
+},
+{
+"id": 1,
+
+"banner_type": 1,
+"banner_premium": 0,
+"banner_premium_hide": 0,
+"banner_subtitle": "",
+"banner_title": "Lie Detector App",
+"banner_button": "INSTALL NOW",
+"banner_url": "https://apps.apple.com/app/id1600273612",
+"banner_img_screen": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/IMG/LieDetector1.jpg",
+
+"full_subtitle": "",
+"full_title": "Lie Detector App",
+"full_button": "Install Now",
+"full_url": "https://apps.apple.com/app/id1600273612",
+"full_img_bg": "",
+"full_img_icon": "https://raw.githubusercontent.com/dem7799/REMOTE-APPS-SETTINGS/main/--MEDIA--/lieDetector1_icon.png",
+
+"menu_premium": 0,
+"menu_premium_hide": 0,
+"menu_subtitle": "Install App",
+"menu_title": "Lie Detector App",
+"menu_url": "https://apps.apple.com/app/id1600273612"
 }
 ]
