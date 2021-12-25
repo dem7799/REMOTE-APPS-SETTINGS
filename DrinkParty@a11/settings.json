@@ -30,10 +30,9 @@
 "remote_IAP_subPriceText2": "/ 3 months",
 "remote_IAP_perPeriod": "per week",
 
-"remote_crossPromo_banner": 1,
-"remote_crossPromo_menu": 1,
-
-"remote_crossPromo_full": 1,
+"remote_crossPromo_banner": 0,
+"remote_crossPromo_menu": 0,
+"remote_crossPromo_full": 0,
 "remote_crossPromo_full_showEvery": 2,
 
 "remote_introSlide_onlyWelcome": 1,
