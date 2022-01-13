@@ -41,7 +41,7 @@
 "remote_crossPromo_full": 0,
 "remote_crossPromo_full_showEvery": 2,
 
-"remote_introSlide_onlyWelcome": 0,
+"remote_introSlide_onlyWelcome": 1,
 "remote_introSlide_welcome": 1,
 "remote_introSlide_1": 1,
 "remote_introSlide_2": 1,
