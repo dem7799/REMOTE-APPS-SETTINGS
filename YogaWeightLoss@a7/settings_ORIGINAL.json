@@ -1,0 +1,64 @@
+{
+"remote_IAP_page_intro": 0,
+"remote_IAP_page_tab1": 0,
+"remote_PROGRESS_page_prize": 1,
+
+"remote_IAP_closeButton": 1,
+"remote_IAP_titleText": "Lose weight while healthy eating & 5 min yoga",
+"remote_IAP_headImgUrl": "/assets/imgs/before_after_1.png",
+"remote_IAP_nextButtonText": "Start now & subscribe",
+"remote_IAP_socialProof": "",
+"remote_IAP_charity": "",
+
+"remote_IAP_closeButton2": 1,
+"remote_IAP_titleText2": "Your 4 week plan is ready!",
+"remote_IAP_headImgUrl2": "/assets/imgs/before_after_1.png",
+"remote_IAP_nextButtonText2": "Continue & Subscribe",
+"remote_IAP_priceTextStyle2": "font-size:20px;color:#000;",
+"remote_IAP_trialBefore2": "1 week for free, then",
+"remote_IAP_trialAfter2": "/week",
+
+"remote_IAP_planText1": "Week",
+"remote_IAP_planText2": "12 weeks",
+"remote_IAP_planTextStyle": "font-size:14px;",
+"remote_IAP_priceTextStyle": "font-size:20px;",
+
+"remote_IAP_trial": "1",
+"remote_IAP_trial2": "1",
+"remote_IAP_trialText": "Try 7 days free, then",
+"remote_IAP_trialText2": "Day free",
+"remote_IAP_discountText": "Save",
+"remote_IAP_discount": "50%",
+
+"remote_IAP_subPrice": 1,
+"remote_IAP_subPriceText1": "/ weekly",
+"remote_IAP_subPriceText2": "/ 3 months",
+"remote_IAP_perPeriod": "per week",
+
+"remote_crossPromo_banner": 0,
+"remote_crossPromo_menu": 0,
+
+"remote_crossPromo_full": 0,
+"remote_crossPromo_full_showEvery": 2,
+
+"remote_introSlide_onlyWelcome": 0,
+"remote_introSlide_welcome": 1,
+"remote_introSlide_1": 1,
+"remote_introSlide_2": 1,
+"remote_introSlide_3": 1,
+"remote_introSlide_4": 0,
+
+"remote_introSlide_5": 0,
+"remote_introSlide_6": 0,
+"remote_introSlide_7": 0,
+"remote_introSlide_8": 0,
+
+"remote_introSlide_email": 0,
+"remote_introSlide_height": 0,
+"remote_introSlide_weight": 1,
+"remote_introSlide_age": 0,
+"remote_introSlide_name": 0,
+"remote_introSlide_progress": 1,
+"remote_introSlide_done": 0,
+"remote_introSlide_index": 5
+}
