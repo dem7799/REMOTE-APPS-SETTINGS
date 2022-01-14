@@ -1,7 +1,7 @@
 {
 "remote_IAP_page_intro": 0,
 "remote_IAP_page_tab1": 0,
-"remote_PROGRESS_page_prize": 1,
+"remote_PROGRESS_page_prize": 0,
 
 "remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Lose weight while healthy eating & 5 min yoga",
@@ -41,7 +41,7 @@
 "remote_crossPromo_full": 0,
 "remote_crossPromo_full_showEvery": 2,
 
-"remote_introSlide_onlyWelcome": 0,
+"remote_introSlide_onlyWelcome": 1,
 "remote_introSlide_welcome": 1,
 "remote_introSlide_1": 1,
 "remote_introSlide_2": 1,
@@ -59,6 +59,6 @@
 "remote_introSlide_age": 0,
 "remote_introSlide_name": 0,
 "remote_introSlide_progress": 1,
-"remote_introSlide_done": 0,
+"remote_introSlide_done": 1,
 "remote_introSlide_index": 5
 }
