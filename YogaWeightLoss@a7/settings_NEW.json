@@ -6,22 +6,22 @@
 "remote_IAP_closeButton": 1,
 "remote_IAP_titleText": "Lose weight while healthy eating & 5 min yoga",
 "remote_IAP_headImgUrl": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText": "Start now & subscribe",
+"remote_IAP_nextButtonText": "Start Now",
 "remote_IAP_socialProof": "",
-"remote_IAP_charity": "",
+"remote_IAP_charity": "10% of income for charity.",
 
 "remote_IAP_closeButton2": 1,
 "remote_IAP_titleText2": "Your 4 week plan is ready!",
 "remote_IAP_headImgUrl2": "/assets/imgs/before_after_1.png",
-"remote_IAP_nextButtonText2": "Continue & Subscribe",
-"remote_IAP_priceTextStyle2": "font-size:20px;color:#000;",
+"remote_IAP_nextButtonText2": "Continue",
+"remote_IAP_priceTextStyle2": "font-size:16px;color:#9da7b9;",
 "remote_IAP_trialBefore2": "1 week for free, then",
 "remote_IAP_trialAfter2": "/week",
 
 "remote_IAP_planText1": "Week",
 "remote_IAP_planText2": "12 weeks",
 "remote_IAP_planTextStyle": "font-size:14px;",
-"remote_IAP_priceTextStyle": "font-size:20px;",
+"remote_IAP_priceTextStyle": "font-size:16px;",
 
 "remote_IAP_trial": "1",
 "remote_IAP_trial2": "1",
@@ -35,10 +35,10 @@
 "remote_IAP_subPriceText2": "/ 3 months",
 "remote_IAP_perPeriod": "per week",
 
-"remote_crossPromo_banner": 1,
-"remote_crossPromo_menu": 1,
+"remote_crossPromo_banner": 0,
+"remote_crossPromo_menu": 0,
 
-"remote_crossPromo_full": 1,
+"remote_crossPromo_full": 0,
 "remote_crossPromo_full_showEvery": 2,
 
 "remote_introSlide_onlyWelcome": 0,
