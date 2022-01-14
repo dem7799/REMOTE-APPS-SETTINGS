@@ -1,5 +1,5 @@
 {
-"remote_IAP_page_intro": 2,
+"remote_IAP_page_intro": 0,
 "remote_IAP_page_tab1": 0,
 "remote_PROGRESS_page_prize": 1,
 
@@ -59,6 +59,6 @@
 "remote_introSlide_age": 0,
 "remote_introSlide_name": 0,
 "remote_introSlide_progress": 1,
-"remote_introSlide_done": 0,
+"remote_introSlide_done": 1,
 "remote_introSlide_index": 6
 }
